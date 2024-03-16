@@ -1,5 +1,5 @@
 # Prompt-Engineering 🧠
-Bienvenido al repositorio de la Capacitación <strong>Prompt Engineering 👩‍💻</strong> <br><br> Aqui encontraras todos los recursos que han sido mencionados a lo largo de la charla encontrando:
+Bienvenido al repositorio de la Capacitación <strong>Prompt Engineering 👩‍💻</strong> con el semillero CREINNG<br><br> Aqui encontraras todos los recursos que han sido mencionados a lo largo de la charla encontrando:
 * Las diapositivas
 * El forms de asistencia
 * La evaluación de la capacitación
